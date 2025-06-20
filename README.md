@@ -33,4 +33,4 @@ The following datasets were used for the project, though they **will not be shar
 - **AZDIAS_Feature_Summary.csv**: Summary of feature attributes for demographic data.
 
 ### Important Note:
-Since the datasets are proprietary, **only the HTML version of the completed notebook** will be shared for submission. The datasets are not included due to confidentiality agreements.
+Since the datasets are proprietary, **only the HTML version of the completed notebook** will be shared. The datasets are not included due to confidentiality agreements.
